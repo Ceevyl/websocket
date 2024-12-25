@@ -1,0 +1,17 @@
+{
+  "name": "express_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Ceevyl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "net": "^1.0.2",
+    "socket.io": "^4.7.5",
+    "vercel": "^34.1.2"
+  }
+}
